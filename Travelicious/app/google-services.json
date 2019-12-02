@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "49421724023",
+    "firebase_url": "https://travel-1997.firebaseio.com",
+    "project_id": "travel-1997",
+    "storage_bucket": "travel-1997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49421724023:android:ef8e53886b24d2a7",
+        "android_client_info": {
+          "package_name": "com.example.travelicious"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49421724023-4er4ao4a7mm2en6ir6pan4g8bmgbdgsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABillMFbfwr-JdfsugRGGWpSqF2ct4ltg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49421724023-4er4ao4a7mm2en6ir6pan4g8bmgbdgsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

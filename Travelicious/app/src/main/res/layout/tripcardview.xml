@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="2">
+
+    <ImageView
+        android:id="@+id/profilePic"
+        android:layout_width="410dp"
+        android:layout_height="300dp"
+        android:layout_marginRight="-1000dp"
+        android:src="@drawable/burj2"/>
+
+
+    <TextView
+        android:text="Trip:"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="310dp"
+        android:layout_marginLeft="6dp"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/hotel"
+        android:layout_width="700dp"
+        android:layout_marginLeft="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="310dp"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:text="Company:"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="360dp"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/name"
+        android:layout_marginLeft="150dp"
+        android:layout_width="700dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="360dp"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:text="City:"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="410dp"
+        android:layout_marginLeft="6dp"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/country"
+        android:layout_marginLeft="150dp"
+        android:layout_width="700dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="410dp"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:text="Price:"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="460dp"
+        android:layout_marginLeft="6dp"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/rooms"
+        android:layout_marginLeft="150dp"
+        android:layout_width="700dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="460dp"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:text="Details:"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="510dp"
+        android:layout_marginLeft="6dp"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/members"
+        android:layout_width="700dp"
+        android:layout_marginLeft="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="510dp"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:text="Contact:"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="560dp"
+        android:layout_marginLeft="6dp"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/in"
+        android:layout_width="700dp"
+        android:layout_marginLeft="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="560dp"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+    <TextView
+        android:text="Email:"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="610dp"
+        android:layout_marginLeft="6dp"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/out"
+        android:layout_width="700dp"
+        android:layout_marginLeft="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="610dp"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+</RelativeLayout>
